@@ -1,5 +1,10 @@
 # au-extension
 The official page for the AU Chrome Extension.
+v1.0.0
+
+# How to install extension folder
+1. Download all the files from this respitory.
+2. On your computers file explorer, organize the files into a folder called "AU Ext".  
 
 # How to add extension to Chrome
 1. Your first step is to go to the Chrome Menu, then 'More Tools', then Extensions. (⋮ > More Tools > Extensions)
