@@ -1,0 +1,11 @@
+{
+    "name": "FloobFloob AU",              
+    "version": "1.0.0",  	
+    "description": "The FloobFloob AU integrated in a Chrome Extension.",
+    "manifest_version": 3,
+    "author": "FloobFloob",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "FF AU"
+    }
+}  		    					
